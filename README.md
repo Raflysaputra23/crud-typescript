@@ -1,4 +1,4 @@
-#By Rafly
+# CRUD Typescript
 Halo Everyone, saya membuat program CRUD sederhana menggunakan typescript kalian bisa clone repo ini untuk mempelajarinya, selamat mencoba 
-#PERINTAH CMD
+# PERINTAH CMD
 pnpm start -> untuk mengcompile sekaligus menjalankannya
